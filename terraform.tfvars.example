@@ -1,0 +1,5 @@
+aws_region    = "us-east-1"
+project_name  = "pdc-donuts"
+db_username   = "pdcadmin"
+db_name       = "pdcdb"
+container_port = 8080
